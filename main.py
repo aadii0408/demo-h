@@ -150,4 +150,4 @@ def recommend():
 
 if __name__ == '__main__':
     app.run(debug=True)
-    app.run(host="movie-bluff.herokuapp.com")
+    app.run(host="https://movie-bluff.herokuapp.com/")
